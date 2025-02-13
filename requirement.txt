@@ -1,4 +1,6 @@
 streamlit
 pandas
-edge-tts
+git+https://github.com/rany2/edge-tts.git
 openpyxl
+aiohttp
+asyncio
